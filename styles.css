@@ -12,10 +12,7 @@ nav li:hover{
     border-bottom:1px solid rgb(18, 173, 140);
 }
 nav{
-    background: linear-gradient(#0f2027, #203a43, #2c5364);
-    background-clip: border-box;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #000;
   font-size: 14px;  
 cursor: pointer;
 width: 100%;
